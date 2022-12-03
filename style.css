@@ -185,11 +185,6 @@ button:hover {
     border-radius: 50%;
 }
 
-.fa-trash{
-    cursor: pointer;
-    color: #333;
-}
-
 #one{
     margin-left: 10px;
 }
